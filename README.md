@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040299
+# Name:Sathish.B
+# Date:14.05.2025
 
 
 # AIM:
@@ -38,6 +38,9 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+![Screenshot 2025-05-14 101639](https://github.com/user-attachments/assets/ab67eb67-742e-4319-8236-e67970768fd3)
+
+
 
 
 
@@ -56,6 +59,10 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+
+
+![Screenshot 2025-05-14 102624](https://github.com/user-attachments/assets/c6006de7-cf01-44b7-82c1-63121faca97a)
 
 
 
@@ -104,6 +111,9 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+
+![Screenshot 2025-05-14 103312](https://github.com/user-attachments/assets/8f720be5-b335-4e48-9fc9-5d27c2d77558)
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
